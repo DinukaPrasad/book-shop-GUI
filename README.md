@@ -1,5 +1,7 @@
 # book-shop-GUI
 
 ## About
-    this is another version of book-shop application, 
-    this is GUI versin
+this is another version of book-shop application, 
+this is GUI version
+
+lets start 
