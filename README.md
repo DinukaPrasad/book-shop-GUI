@@ -3,5 +3,3 @@
 ## About
 this is another version of book-shop application, 
 this is GUI version
-
-lets start 
